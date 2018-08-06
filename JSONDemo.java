@@ -9,6 +9,7 @@ public class JSONDemo {
 		JSONObject obj = new JSONObject();
 		obj.put("Thiru", 50);
 		obj.put("Vihesh", 60);
+		obj.put("Selvi", 40);
 		System.out.println(obj);
 	}
 
